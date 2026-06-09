@@ -1,0 +1,12 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple Node.js calculator (CLI + REPL)",
+  "main": "index.js",
+  "bin": { "calc": "index.js" },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": { "node": ">=14" },
+  "license": "MIT"
+}
